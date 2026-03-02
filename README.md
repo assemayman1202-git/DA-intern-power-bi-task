@@ -1,2 +1,4 @@
 # DA-intern-power-bi-task
-!(https://github.com/assemayman1202-git/DA-intern-power-bi-task/tree/main)(Sentiment%Page.png)
+![Sentiment Page](https://raw.githubusercontent.com/assemayman1202-git/DA-intern-power-bi-task/main/Sentiment%20Page.png)
+
+![Reactions Page](https://raw.githubusercontent.com/assemayman1202-git/DA-intern-power-bi-task/main/Reactions%20page.png)
